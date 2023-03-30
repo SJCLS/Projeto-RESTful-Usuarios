@@ -1,4 +1,4 @@
-<h1>Projeto Aula 3</h1>
+<h1>Projeto RESTful Usuarios</h1>
 <h2>Sobre o projeto</h2>
 <p>Esse é um projeto de exemplo para a aula 3 do curso de Spring Boot. O objetivo do projeto é demonstrar como criar uma API RESTful utilizando o Spring Boot e o banco de dados H2 Database .</p>
 <h2>Tecnologias utilizadas</h2>
